@@ -4,7 +4,7 @@ Exploratory data analysis on U.S. flight data! Uncovering patterns in delays, ca
 ## Preview
 <img src="/images/showsskies.png" alt="Total Flight Hours by Top Performing Airlines" width="600"/>
 
-## ✈️ Key Insights
+## Key Insights
 - **American Airlines** had the longest delays and more extreme outliers, while **Southwest** had more frequent but shorter delays.
 - **San Francisco (SFO)** and **Los Angeles (LAX)** showed persistent delay patterns, suggesting chronic congestion or inefficiencies.
 - Delay distributions were right-skewed across the board, indicating most delays were minor but some airports and airlines faced severe outliers.
