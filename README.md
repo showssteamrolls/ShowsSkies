@@ -2,7 +2,7 @@
 Exploratory data analysis on U.S. flight data! Uncovering patterns in delays, carriers, and seasonal trends using Python and visualization tools.
 
 ## Preview
-<img src="/Users/showhq/Downloads/netlifyportfolio-main/public/showsskies.png" alt="Total Flight Hours by Top Performing Airlines" width="600"/>
+<img src="/images/showsskies.png" alt="Total Flight Hours by Top Performing Airlines" width="600"/>
 
 ## ✈️ Key Insights
 - **American Airlines** had the longest delays and more extreme outliers, while **Southwest** had more frequent but shorter delays.
